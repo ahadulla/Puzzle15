@@ -1,5 +1,8 @@
 from os import system
 from random import shuffle
+
+# Commentga olingan playsoundlar ishlashi uchun playsoundni o'rnating va musiqa fileni o'zgartiring
+
 # from playsound import playsound
 
 
